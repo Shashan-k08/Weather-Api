@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Weather-App/static/css/main.4f5a5878.css",
-    "main.js": "/Weather-App/static/js/main.22ed002a.js",
-    "static/js/787.d9312eb8.chunk.js": "/Weather-App/static/js/787.d9312eb8.chunk.js",
-    "static/media/Clouds-1.jpeg": "/Weather-App/static/media/Clouds-1.16052e09a732df113b0e.jpeg",
-    "static/media/clouds-2.jpg": "/Weather-App/static/media/clouds-2.0841c19ffed35d96f645.jpg",
-    "index.html": "/Weather-App/index.html",
-    "main.4f5a5878.css.map": "/Weather-App/static/css/main.4f5a5878.css.map",
-    "main.22ed002a.js.map": "/Weather-App/static/js/main.22ed002a.js.map",
-    "787.d9312eb8.chunk.js.map": "/Weather-App/static/js/787.d9312eb8.chunk.js.map"
+    "main.css": "/Weather-Api/static/css/main.8807276b.css",
+    "main.js": "/Weather-Api/static/js/main.afb023b9.js",
+    "static/js/787.d9312eb8.chunk.js": "/Weather-Api/static/js/787.d9312eb8.chunk.js",
+    "static/media/Clouds-1.jpeg": "/Weather-Api/static/media/Clouds-1.16052e09a732df113b0e.jpeg",
+    "static/media/clouds-2.jpg": "/Weather-Api/static/media/clouds-2.0841c19ffed35d96f645.jpg",
+    "index.html": "/Weather-Api/index.html",
+    "main.8807276b.css.map": "/Weather-Api/static/css/main.8807276b.css.map",
+    "main.afb023b9.js.map": "/Weather-Api/static/js/main.afb023b9.js.map",
+    "787.d9312eb8.chunk.js.map": "/Weather-Api/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f5a5878.css",
-    "static/js/main.22ed002a.js"
+    "static/css/main.8807276b.css",
+    "static/js/main.afb023b9.js"
   ]
 }
